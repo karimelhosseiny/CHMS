@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -f /tmp/cli_input.txt /tmp/cli_input2.txt)",
+      "Bash(xargs rm -rf)",
+      "Bash(\"code\" .)"
+    ]
+  }
+}
